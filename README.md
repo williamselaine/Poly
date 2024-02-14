@@ -4,7 +4,7 @@
 
 This is an 8-voice polyphonic synthesizer.
 
-![Poly](https://github.com/williamselaine/Poly/blob/master/Screen%20Shot%202019-11-13%20at%208.35.47%20AM.png)
+![Poly](https://github.com/williamselaine/Poly/blob/main/Screen%20Shot%202019-11-13%20at%208.35.47%20AM.png)
 
 ## Features
 * Two oscillators with configurable waveform and volume
